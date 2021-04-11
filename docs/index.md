@@ -101,9 +101,27 @@ Möchte man die Auswahl wieder einschalten, also die Stummschaltung aufheben (un
 
 ![](img/unmute-selection.gif)
 
-## Aufnahmen vorne und hinten schneiden
+## Aufnahmen am Anfang/Ende trimmen
+
+Bewegt man den Mauscursor an den Rand eines Elements, bekommt man ein Werkzeug, mit dem Man das Element in der Spur am Anfang oder Ende schneiden kann.
+
+![](img/trim.gif)
 
 ## Fade-in und Fade-out in Aufnahmen
+
+Soll die Aufnahme bzw. ein Element nicht so abrupt starten oder enden, kann man die Lautstärke sanfter ansteigen oder abklingen lassen (Fade-in/Fade-out). Das Werkzeug sieht ähnlich aus wie beim Trimmen des Elementes, nur greift man etwas weiter oben.
+
+![](img/fade-in-out.gif)
+
+## Cross-Fade
+
+Bewegt man ein Element der Spur so weit, dass es mit einem anderen Element überlappt, wird automatisch ein Cross-Fade vorgenommen: Ein sanfter Übergang von einem Element ins nächste. Sinnvoll z.B. wenn man Musik in Podcasts benutzt und sie in die Sprachaufnahme einblenden möchte.
+
+![](img/cross-fade.gif)
+
+---
+
+Bald kommen weitere Kapitel!
 
 ## Filter einstellen (pro Track und Master)
 
@@ -114,8 +132,6 @@ Möchte man die Auswahl wieder einschalten, also die Stummschaltung aufheben (un
 ## Cover und ID3 Tags setzen
 
 ## Metadaten in die Datei schreiben
-
-
 
 # Weitere Informationen und Downloads
 
