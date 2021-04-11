@@ -91,8 +91,15 @@ Wenn der **Button 2** aktiv ist, dann werden die Elemente rechts von dem ausgew�
 ![](img/ripple-all-tracks.gif)
 
 
+## Auswahl muten/unmuten
 
-## Spuren muten
+Wenn man einzelne Teile der Aufnahme stummschalten möchte (muten), sollte man die Zeitselektion wieder aktivieren (**Button 6**). Dann selektiert man die gewünschte Spur und wählt den gewünschten Bereich aus. Mit der Tastenkombination "Cmd+Y" (Mac) bzw. "Strg+Y" (Windows) wird dann die Auswahl stummgeschaltet. Es wird in Ultraschall eine zusätzliche "Mute-Spur" eingeblendet, die die Stummschaltung steuert. Ist diese Spur auf den Pegel 0 gesetzt, ist die ursprüngliche Aufnahme stummgeschaltet, sie bleibt somit vollständig intakt.
+
+![](img/mute-selection.gif)
+
+Möchte man die Auswahl wieder einschalten, also die Stummschaltung aufheben (unmuten), kann man das mit der Tastenkombination "Shift+Cmd+Y" (Mac) bzw. "Shift+Strg+Y" (Windows) vornehmen.
+
+![](img/unmute-selection.gif)
 
 ## Aufnahmen vorne und hinten schneiden
 
@@ -107,3 +114,9 @@ Wenn der **Button 2** aktiv ist, dann werden die Elemente rechts von dem ausgew�
 ## Cover und ID3 Tags setzen
 
 ## Metadaten in die Datei schreiben
+
+
+
+# Weitere Informationen und Downloads
+
+* [Schnellübersicht der Oberfläche](downloads/Quick-Info-Ultraschall.pdf)
