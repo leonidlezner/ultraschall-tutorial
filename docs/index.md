@@ -44,15 +44,53 @@ Da die Rohdateien nun mit dem Projekt zusammen liegen, können wir sie ins Proje
 
 ## Tracks löschen und umbenennen
 
-Je nach dem womit der Podcast aufgenommen wurde, könnte die Rohnaufnahme mehr Dateien enthalten, als tatsächlich benötigt. Manchmal nehmen die Rekorder nicht nur die einzelnen Sprecher:innen auf, sondern auch eine Stereospur, die alles zusammengemsicht enthält. Für die Bearbeitung des Podcasts können wir diese Spuren löschen. Dafür wählt man die Spur auf der linken Seite aus und löscht sie mit der Taste "Entf" auf der Tastatur.
+Je nachdem womit der Podcast aufgenommen wurde, könnte die Rohaufnahme mehr Dateien enthalten, als tatsächlich benötigt. Manchmal nehmen die Rekorder nicht nur die einzelnen Sprecher:innen auf, sondern auch eine Stereospur, die alles zusammengemsicht enthält. Für die Bearbeitung des Podcasts können wir diese Spuren löschen. Dafür wählt man die Spur auf der linken Seite aus und löscht sie mit der Taste "Entf" auf der Tastatur.
 
 Es empfiehlt sich die Spuren gleich richtig zu benennen.
 
 ![](img/renaming-tracks.gif)
 
-## Aufnahmen verschieben
+## Aufnahmen verschieben und schneiden
 
-## Aufnahmen schneiden
+Man kann die einzelnen Elemente in den Spuren frei verschieben. Je nachdem ob mal alles zusammen oder in Teilen verschieben möchte, gibt es verschiedene Einstellungen in Ultraschall.
+
+Für die nächsten Schritte ist die im folgenden Bild dargestellte Werkzeugleiste wichtig. Sie befindet sich im linken oberen Teil der Oberfläche von Ultraschall.
+
+![](img/menubar-selection.png)
+
+### Zeitselektion deaktivieren
+
+Normalerweise startet Ultraschall mit der voreingestellten Zeitauswahl (**Button 6** ist aktiv). Dadurch kann man die Tracks nicht verschieben, sondern nur eine Zeitselektion vornehmen.
+
+![](img/time-selection.gif)
+
+Wenn man die Tracks verschieben möchte, muss man den **Button 6** durch einen Klick deaktivieren.
+
+![](img/drag-track.gif)
+
+### Aufnahmen schneiden
+
+Wenn man die Aufnahme schneiden möchte, sollte man normalerweise in allen Tracks gleichzeitig vornehmen. Dafür stellt man den Zeitcursor an die gewünschte Position und drückt den **Button 5** oder die Tasten "S" auf der Tastatur. Ist eine oder mehrere Spuren ausgewählt, werden nur sie geschnitten. Möchte man alle Spuren schneiden, so sollte man die Selektion (gelbe Umrandung der Spur) deaktivieren.
+
+![](img/split-items.gif)
+
+### Verschieben der Elemente
+
+Es gibt mehrere Modi, in denen die Teile der Spuren verschoben werden können. Je nach Aufgabe können sie alle sinnvoll sein, daher sollte man sie alle beherrschen.
+
+Wenn die **Buttons 1** und **2** deaktiviert sind, kann man alle Elemente separat verschieben.
+
+![](img/ripple-disabled.gif)
+
+Wenn der **Button 1** aktiv ist, dann werden die Elemente rechts von dem ausgewählten Element in einer Spur zusammengehalten.
+
+![](img/ripple-per-track.gif)
+
+Wenn der **Button 2** aktiv ist, dann werden die Elemente rechts von dem ausgewählten Element in allen Spuren zusammengehalten.
+
+![](img/ripple-all-tracks.gif)
+
+
 
 ## Spuren muten
 
