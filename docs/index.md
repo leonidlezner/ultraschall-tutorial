@@ -42,7 +42,13 @@ Da die Rohdateien nun mit dem Projekt zusammen liegen, können wir sie ins Proje
 
 ![](img/import-raw-audio.gif)
 
-## Tracks umbenennen
+## Tracks löschen und umbenennen
+
+Je nach dem womit der Podcast aufgenommen wurde, könnte die Rohnaufnahme mehr Dateien enthalten, als tatsächlich benötigt. Manchmal nehmen die Rekorder nicht nur die einzelnen Sprecher:innen auf, sondern auch eine Stereospur, die alles zusammengemsicht enthält. Für die Bearbeitung des Podcasts können wir diese Spuren löschen. Dafür wählt man die Spur auf der linken Seite aus und löscht sie mit der Taste "Entf" auf der Tastatur.
+
+Es empfiehlt sich die Spuren gleich richtig zu benennen.
+
+![](img/renaming-tracks.gif)
 
 ## Aufnahmen verschieben
 
