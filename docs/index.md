@@ -38,6 +38,10 @@ Ein gespeichertes Projekt ist nun komplett in einem Ordner untergebracht. Alle A
 
 ## Rohdateien einfügen
 
+Da die Rohdateien nun mit dem Projekt zusammen liegen, können wir sie ins Projekt importieren. Die einfachste Art sie per Drag&Drop ins Projekt zu ziehen. Man wird gefragt, ob die Dateien als separate Tracks oder ein einzelner Track importiert werden sollen. In den meisten Fällen ist die Option "Separate Tracks" die sinnvolle.
+
+![](img/import-raw-audio.gif)
+
 ## Tracks umbenennen
 
 ## Aufnahmen verschieben
