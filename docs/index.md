@@ -93,7 +93,7 @@ Wenn der **Button 2** aktiv ist, dann werden die Elemente rechts von dem ausgew�
 
 ## Auswahl muten/unmuten
 
-Wenn man einzelne Teile der Aufnahme stummschalten möchte (muten), sollte man die Zeitselektion wieder aktivieren (**Button 6**). Dann selektiert man die gewünschte Spur und wählt den gewünschten Bereich aus. Mit der Tastenkombination "Cmd+Y" (Mac) bzw. "Strg+Y" (Windows) wird dann die Auswahl stummgeschaltet. Es wird in Ultraschall eine zusätzliche "Mute-Spur" eingeblendet, die die Stummschaltung steuert. Ist diese Spur auf den Pegel 0 gesetzt, ist die ursprüngliche Aufnahme stummgeschaltet, sie bleibt somit vollständig intakt.
+Wenn man einzelne Teile der Aufnahme stummschalten möchte (muten), sollte man die Zeitselektion wieder aktivieren (**Button 6**). Dann selektiert man die gewünschte Spur und wählt den gewünschten Bereich aus. Mit der Tastenkombination "Cmd+Y" (Mac) bzw. "Strg+Y" (Windows) wird dann die Auswahl stummgeschaltet. Es wird in Ultraschall eine zusätzliche "Mute-Spur" eingeblendet, die die Stummschaltung steuert. Ist diese Spur auf den Pegel 0 gesetzt, ist die ursprüngliche Aufnahme nur stummgeschaltet, sie bleibt somit vollständig intakt.
 
 ![](img/mute-selection.gif)
 
