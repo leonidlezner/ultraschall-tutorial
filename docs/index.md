@@ -119,11 +119,19 @@ Bewegt man ein Element der Spur so weit, dass es mit einem anderen Element über
 
 ![](img/cross-fade.gif)
 
+## Filter einstellen (pro Track und Master)
+
+Ultraschall hat einige fingebaute Filter, die uns jede Menge Arbeit abnehmen. Dazu zählt Ultraschall Dynamics: Rauschreduzierung und Pegelanhebung einzelner Spuren.
+
+![](img/fx-tracks.gif)
+
+Um den Pegel der gesamten Aufnahmen auf einen Standardwert zu heben, gibt es noch einen Filter, den man aktivieren muss: LUFS Loudness Metering.
+
+![](img/fx-master.gif)
+
 ---
 
 Bald kommen weitere Kapitel!
-
-## Filter einstellen (pro Track und Master)
 
 ## Kapitelmarken setzen
 
@@ -135,4 +143,4 @@ Bald kommen weitere Kapitel!
 
 # Weitere Informationen und Downloads
 
-* [Schnellübersicht der Oberfläche](downloads/Quick-Info-Ultraschall.pdf)
+* Download: [Schnellübersicht der Oberfläche](https://github.com/leonidlezner/ultraschall-tutorial/raw/main/docs/downloads/Quick-Info-Ultraschall.pdf)
