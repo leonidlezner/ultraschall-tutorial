@@ -1,3 +1,7 @@
+---
+title: Ultraschall 5 Tutorial
+---
+
 # Podcast bearbeiten mit Ultraschall 5
 
 Auch wenn es um Ultraschall geht, fällt hier oft der Name "Reaper". Denn Reaper ist eine Software, die durch das Projekt "Ultraschall" erweitert wird. Einfachheitshalber spreche ich hier von Ultraschall, meine jedoch immer die Kombination "Reaper/Ultraschall“.
@@ -96,7 +100,7 @@ Wenn der **Button 2** aktiv ist, dann werden die Elemente rechts von dem ausgew�
 
 ## Schnelles Verschieben
 
-Es gibt einen Trick, mit dem man die Elemente schnell verschieben kann. Dafür gibt es zwei nützliche Maus-Tastaturkombinationen, die in der Zeitauswahl und im Verschiebemodus funktionieren.
+Es gibt einen Trick, mit dem man die Elemente schnell verschieben kann. Dafür gibt es zwei nützliche Maus-Tastaturkombinationen, die in der Zeitauswahl und im Verschiebemodus funktionieren (als in beliebiger Stellung von **Button 6**).
 
 Möchte man nur ein Element verschieben, zieht man es mit gedrückter Taste "Alt".
 
@@ -157,9 +161,13 @@ Kapitelmarken kann man ganz einfach mit der Maus verschieben, sollte die Positio
 
 ## Kapitelmarken exportieren
 
+Die Kapitelmarken können in Ultraschall als Textfile exportiert werden, wenn sie für diverse Podcastplattformen benötigt werden.
+
 ![](img/export-chapters.gif)
 
 ## Projekt als MP3 exportieren
+
+Man kann das fertige Projekt in mehreren Formaten exportieren. Hier ist ein Beispiel wie man das Projekt mit Voreinstellungen für das MP3-Format exportiert.
 
 ![](img/export-mp3.gif)
 
