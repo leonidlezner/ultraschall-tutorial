@@ -96,7 +96,7 @@ Wenn der **Button 2** aktiv ist, dann werden die Elemente rechts von dem ausgew�
 
 ## Schnelles Verschieben
 
-Arbeitet man mit der Zeitauswahl (**Button 6** ist aktiviert), gibt es einen Trick, mit dem man die Elemente schnell verschieben kann. Dafür gibt es zwei nützliche Maus-Tastaturkombinationen:
+Es gibt einen Trick, mit dem man die Elemente schnell verschieben kann. Dafür gibt es zwei nützliche Maus-Tastaturkombinationen, die in der Zeitauswahl und im Verschiebemodus funktionieren.
 
 Möchte man nur ein Element verschieben, zieht man es mit gedrückter Taste "Alt".
 
