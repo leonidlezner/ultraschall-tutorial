@@ -74,6 +74,10 @@ Wenn man die Aufnahme schneiden möchte, sollte man normalerweise in allen Track
 
 ![](img/split-items.gif)
 
+Eine nützliche Abkürzung ist der Mausklick mit gedrückter "Alt"-Taste. Damit klickt man und schneidet die Spur.
+
+![](img/alt-click.gif)
+
 ### Verschieben der Elemente
 
 Es gibt mehrere Modi, in denen die Teile der Spuren verschoben werden können. Je nach Aufgabe können sie alle sinnvoll sein, daher sollte man sie alle beherrschen.
@@ -89,6 +93,18 @@ Wenn der **Button 1** aktiv ist, dann werden die Elemente rechts von dem ausgew�
 Wenn der **Button 2** aktiv ist, dann werden die Elemente rechts von dem ausgewählten Element in allen Spuren zusammengehalten.
 
 ![](img/ripple-all-tracks.gif)
+
+## Schnelles Verschieben
+
+Arbeitet man mit der Zeitauswahl (**Button 6** ist aktiviert), gibt es einen Trick, mit dem man die Elemente schnell verschieben kann. Dafür gibt es zwei nützliche Maus-Tastaturkombinationen:
+
+Möchte man nur ein Element verschieben, zieht man es mit gedrückter Taste "Alt".
+
+![](img/alt-drag.gif)
+
+Möchte man gleichzeitig Elemente in allen Spuren verschieben, zieht man sie mit gedrückter Taste "Cmd" (Mac) bzw. "Strg" (Windows).
+
+![](img/cmd-drag.gif)
 
 
 ## Auswahl muten/unmuten
