@@ -12,7 +12,7 @@ Wichtig: Es werden die Administrator-Rechte auf dem PC benötigt.
 
 ## Ultraschall starten und den Schlüssel eingeben
 
-Nach dem ersten Start wird ein Dialog angezeigt, was alles in der akuellen Version von Ultraschall neu ist. Wir können den Hacken wegnehmen, dass beim nächsten Start das Fenster wieder kommt.
+Nach dem ersten Start wird ein Dialog angezeigt, was alles in der aktuellen Version von Ultraschall neu ist. Wir können den Hacken wegnehmen, dass beim nächsten Start das Fenster wieder kommt.
 
 ![](img/show-on-startup.gif)
 
@@ -145,17 +145,23 @@ Um den Pegel der gesamten Aufnahmen auf einen Standardwert zu heben, gibt es noc
 
 ![](img/fx-master.gif)
 
----
-
-Bald kommen weitere Kapitel!
-
 ## Kapitelmarken setzen
+
+Neue Kapitelmarken an der aktuellen Cursorposition können mit dem **Button 3** (s. oben) oder Taste "M" gesetzt werden. Sie werden erst ohne Namen eingegeben und erscheinen in der Liste der Kapitelmarken. Dort kann man sie umbenennen.
+
+![](img/add-chapter.gif)
+
+Kapitelmarken kann man ganz einfach mit der Maus verschieben, sollte die Position der Marke nicht korrekt gesetzt worden sein.
+
+![](img/move-chapter.gif)
+
+## Kapitelmarken exportieren
+
+![](img/export-chapters.gif)
 
 ## Projekt als MP3 exportieren
 
-## Cover und ID3 Tags setzen
-
-## Metadaten in die Datei schreiben
+![](img/export-mp3.gif)
 
 # Weitere Informationen und Downloads
 
